@@ -43,7 +43,6 @@ button:focus-visible {
 
 
 #root {
-  background-color: lightgrey;
   text-align: center;
 }
 
@@ -75,6 +74,6 @@ input[type="button"] {
   flex-basis: 40%;
   border: 1px solid black;
   width: 20px;
-  height: 20px;
+  height: 30px;
   background-color: white;
 }
